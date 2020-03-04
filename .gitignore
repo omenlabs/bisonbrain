@@ -1,0 +1,7 @@
+*.o
+*.output
+bisonbrain
+bisonbrain.tab.c
+bisonbrain.tab.h
+bisonbrain
+lex.yy.c
